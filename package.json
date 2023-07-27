@@ -1,7 +1,6 @@
 {
   "name": "todo-app",
   "version": "1.0.0",
-  "main": "index.js",
   "repository": "https://github.com/PetrVasilev/rn-todo-app.git",
   "author": "Petr Vasilev <vpa17@ya.ru>",
   "license": "MIT",
