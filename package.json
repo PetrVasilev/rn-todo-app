@@ -1,0 +1,12 @@
+{
+  "name": "todo-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/PetrVasilev/rn-todo-app.git",
+  "author": "Petr Vasilev <vpa17@ya.ru>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "18.2.0",
+    "react-native": "0.72.3"
+  }
+}
